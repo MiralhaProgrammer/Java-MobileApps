@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Riot Games</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Riot Games</string>
+    <string name="nav_header_subtitle">STAY HUNGRY; STAY HUMBLE</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_story">Story</string>
+    <string name="menu_wwa">Who We Are</string>
+    <string name="menu_values">Riot Values</string>
+    <string name="menu_lol">League Of Legends</string>
+    <string name="menu_lor">Legends Of Runeterra</string>
+    <string name="menu_valorant">Valorant</string>
+    <string name="menu_wildrift">Wild Rift</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

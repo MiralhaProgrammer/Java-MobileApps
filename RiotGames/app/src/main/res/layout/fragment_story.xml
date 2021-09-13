@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/story" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="Riot Games was founded in 2006 to develop, publish, and support the most player-focused games in the world. In 2009, we released our debut title, League of Legends, to worldwide acclaim. League has gone on to be the most-played PC game in the world and a key driver of the explosive growth of esports. " />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="As League enters its second decade, we’re continuing to evolve the game while delivering new experiences to players with Teamfight Tactics, Legends of Runeterra, VALORANT, League of Legends: Wild Rift, and multiple work-in-progress titles. We’re also expanding the world of Runeterra through multimedia projects across music, comic books, board games, and the upcoming animated series Arcane.   " />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/rioters" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:text="The annual League of Legends World Championship features qualified esports teams from 12 international leagues. Worlds is the most widely viewed and followed esport tournament, and it’s among the largest and most popular gaming and sporting events in the world. " />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="10dp"
+            android:text="Founded by Brandon Beck and Marc Merrill, and led by CEO Nicolo Laurent, Riot is headquartered in Los Angeles, California, and has 3,000+ Rioters in 20+ offices worldwide. We're certified as a Great Place to Work and we’ve been featured on numerous lists including Fortune’s “100 Best Companies to Work For,” “25 Best Companies to Work in Technology,” “100 Best Workplaces for Millennials,” and “50 Best Workplaces for Flexibility.”   Our Values" />
+
+        <ImageButton
+            android:id="@+id/buttonseemore2"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@drawable/redbutton"
+            android:scaleType="centerInside"
+            android:src="@drawable/seemore" />
+
+    </LinearLayout>
+
+    </ScrollView>

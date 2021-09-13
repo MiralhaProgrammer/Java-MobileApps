@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:context=".FragmentsActivity.HomeFragment">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome!"
+            android:textAlignment="center"
+            android:textColor="@color/color_riot"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="You are in the app about the company Riot Games!"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:paddingTop="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/riotlogo" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="In this app you can see many features, like what the company is, what is the company's history, its target audience, its values ​​and much more!" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="You can also check out the company's main games:"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/allgames" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_black_arrow"
+            android:gravity="center_vertical"
+            android:text="@string/menu_lol"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_black_arrow"
+            android:gravity="center_vertical"
+            android:text="@string/menu_lor"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_black_arrow"
+            android:gravity="center_vertical"
+            android:text="@string/menu_valorant"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_black_arrow"
+            android:gravity="center_vertical"
+            android:text="@string/menu_wildrift"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="App by: "
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="cursive"
+                android:text="Miguel Cavalcante"
+                android:textAlignment="center"
+                android:textColor="@color/color_dark_riot"
+                android:textSize="20sp"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="Version 1.0"
+            android:textAlignment="center"
+            android:textColor="@color/color_dark_riot"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+    </ScrollView>

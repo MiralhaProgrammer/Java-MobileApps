@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RiotGames/app/src/main/res/drawable/gradient_red.xml" value="0.3828125" />
+        <entry key="..\:/RiotGames/app/src/main/res/drawable/ic_email.xml" value="0.303125" />
+        <entry key="..\:/RiotGames/app/src/main/res/drawable/ic_story.xml" value="0.31875" />
+        <entry key="..\:/RiotGames/app/src/main/res/drawable/ic_wwa.xml" value="0.303125" />
+        <entry key="..\:/RiotGames/app/src/main/res/drawable/side_nav_bar.xml" value="0.3828125" />
+        <entry key="..\:/RiotGames/app/src/main/res/drawable/values_list.xml" value="0.31875" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_lol_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_lolvideo.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_lor_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_valorant_video.xml" value="0.2869791666666667" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_wild_rift.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/activity_wildrift_video.xml" value="0.2869791666666667" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/content_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_lol.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_lor.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_story.xml" value="0.25" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_valorant.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_values.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_wild_riftfragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/fragment_wwa.xml" value="0.33" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/layout/values_list.xml" value="0.3026041666666667" />
+        <entry key="..\:/RiotGames/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/RiotGames/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.303125" />
+        <entry key="..\:/RiotGames/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.303125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

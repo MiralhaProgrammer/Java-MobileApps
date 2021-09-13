@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_wwa"
+            android:icon="@drawable/ic_wwa"
+            android:title="@string/menu_wwa" />
+
+        <item
+            android:id="@+id/nav_story"
+            android:icon="@drawable/ic_story"
+            android:title="@string/menu_story" />
+
+        <item
+            android:id="@+id/nav_values"
+            android:icon="@drawable/ic_values"
+            android:title="@string/menu_values" />
+
+    </group>
+
+    <item android:title="Main Games">
+
+      <menu>
+          <item
+              android:id="@+id/nav_lol"
+              android:icon="@drawable/ic_lol"
+              android:title="@string/menu_lol" />
+          <item
+              android:id="@+id/nav_lor"
+              android:icon="@drawable/ic_lor"
+              android:title="@string/menu_lor" />
+
+          <item
+              android:id="@+id/nav_valorant"
+              android:icon="@drawable/ic_valorant"
+              android:title="@string/menu_valorant" />
+
+          <item
+              android:id="@+id/nav_wildrift"
+              android:icon="@drawable/ic_wildrift"
+              android:title="@string/menu_wildrift" />
+
+      </menu>
+
+
+
+    </item>
+</menu>

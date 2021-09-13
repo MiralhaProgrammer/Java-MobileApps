@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_story"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.StoryFragment"
+        android:label="@string/menu_story"
+        tools:layout="@layout/fragment_story" />
+
+    <fragment
+        android:id="@+id/nav_values"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.ValuesFragment"
+        android:label="@string/menu_values"
+        tools:layout="@layout/fragment_values" />
+
+
+    <fragment
+        android:id="@+id/nav_lol"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.LolFragment"
+        android:label="@string/menu_lol"
+        tools:layout="@layout/fragment_lol" />
+
+
+    <fragment
+        android:id="@+id/nav_lor"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.LorFragment"
+        android:label="@string/menu_lor"
+        tools:layout="@layout/fragment_lor" />
+
+
+    <fragment
+        android:id="@+id/nav_valorant"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.ValorantFragment"
+        android:label="@string/menu_valorant"
+        tools:layout="@layout/fragment_valorant" />
+
+    <fragment
+        android:id="@+id/nav_wildrift"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.WildRiftfragment"
+        android:label="@string/menu_wildrift"
+        tools:layout="@layout/fragment_wild_riftfragment" />
+
+    <fragment
+        android:id="@+id/nav_wwa"
+        android:name="com.guelzinhocurso.riotgames.FragmentsActivity.WwaFragment"
+        android:label="@string/menu_wwa"
+        tools:layout="@layout/fragment_wwa" />
+
+</navigation>

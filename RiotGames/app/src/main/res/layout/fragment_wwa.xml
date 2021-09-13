@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".FragmentsActivity.WwaFragment">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/allgames2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+        android:text="Riot Games, Inc. is an American video game developer, publisher and esports tournament organizer. Its headquarters are in West Los Angeles, California. Founded in September 2006 by Brandon Beck and Marc Merill to develop League of Legends, the company has gone on to develop several spin-off games of League and an unrelated first-person shooter, Valorant. As a publisher, Riot Games oversees the production of League spin-offs by other developers through its publishing arm, Riot Forge. Since 2011, Riot has been a subsidiary of Chinese conglomerate Tencent." />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/riotgamesheadquarters" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingBottom="10dp"
+        android:text="Riot operates 14 international League of Legends esports leagues, the League of Legends World Championship and the Valorant Champions Tour. The company, which had 24 offices worldwide as of 2018, sells corporate sponsorships, merchandise, and streaming rights for its leagues. Riot has faced allegations of a toxic workplace culture, including gender discrimination and sexual harassment. The company's response was criticized for its use of forced arbitration." />
+
+    <ImageButton
+        android:id="@+id/buttonSeemore"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/redbutton"
+        android:onClick="seeMore"
+        android:scaleType="centerInside"
+        android:src="@drawable/seemore" />
+
+</LinearLayout>
+</ScrollView>
