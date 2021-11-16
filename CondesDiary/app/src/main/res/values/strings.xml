@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diário do Conde</string>
+    <string name="version">Versão 1.0</string>
+    <string name="credits">Drawings designed by Freepik</string>
+    <string name="creator">Miguel Cavalcante</string>
+    <string name="assistant">Michael Pinheiro</string>
+    <string name="help1">Aperte para editar</string>
+    <string name="help2">Segure para excluir</string>
+
+</resources>

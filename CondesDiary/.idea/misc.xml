@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CondesDiary/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.3828125" />
+        <entry key="..\:/CondesDiary/app/src/main/res/drawable/ic_post_add2_48.xml" value="0.3828125" />
+        <entry key="..\:/CondesDiary/app/src/main/res/layout/activity_all_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/CondesDiary/app/src/main/res/layout/activity_credits.xml" value="0.36666666666666664" />
+        <entry key="..\:/CondesDiary/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/CondesDiary/app/src/main/res/layout/activity_new_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/CondesDiary/app/src/main/res/layout/values_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/CondesDiary/app/src/main/res/menu/menu_allnote.xml" value="0.36666666666666664" />
+        <entry key="..\:/CondesDiary/app/src/main/res/menu/menu_newnote.xml" value="0.3385416666666667" />
+        <entry key="..\:/CondesDiary/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3728205128205128" />
+        <entry key="..\:/CondesDiary/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
