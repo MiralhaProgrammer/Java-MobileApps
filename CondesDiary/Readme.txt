@@ -8,5 +8,5 @@ Resources:
 - ImageView / ImageButton
 - Intent 
 
-- Java software
+- Java's software
 
